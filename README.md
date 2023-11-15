@@ -2,7 +2,7 @@
 
 Follows the article [Ray Tracing in One Weekend](https://raytracing.github.io/books/RayTracingInOneWeekend.html)
 
-Current position: "6.2 Simplifying the Ray-Sphere Intersection Code"
+Current position: "6.8 An Interval Class"
 
 Current rendition: ![image.ppm](image.ppm)
 
