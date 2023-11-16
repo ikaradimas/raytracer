@@ -1,9 +1,10 @@
-CC = clang++
-CFLAGS = "-g -std=c++11"
+CC="clang++"
+CFLAGS="-stdlib=libc++ -std=c++11"
+LDFLAGS="-stdlib=libc++"
 
 main: main.o
 main.cc: 
-	
+
 run: main
 	@./main > image.ppm
 	@convert image.ppm image.png
