@@ -23,9 +23,9 @@ void write_color(std::ostream& out, color pixel_color, int samples_per_pixel) {
     b *= scale;
 
     // Apply the linear to gamma transform.
-    r *= linear_to_gamma(r);
-    g *= linear_to_gamma(g);
-    b *= linear_to_gamma(b);
+    r = linear_to_gamma(r);
+    g = linear_to_gamma(g);
+    b = linear_to_gamma(b);
 
     // Write the translated [0,255] value of each color component.
     static const interval intensity(0.000, 0.999);

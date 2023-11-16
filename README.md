@@ -4,7 +4,11 @@ Follows the article [Ray Tracing in One Weekend](https://raytracing.github.io/bo
 
 Current position: "6.8 An Interval Class"
 
-Current rendition: ![image.ppm](image.ppm)
+Current rendition: ![image.png](image.png)
+
+## Requirements
+
+* Image magick for converting ppm to png
 
 ## Notes
 
