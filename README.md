@@ -2,7 +2,7 @@
 
 Follows the article [Ray Tracing in One Weekend](https://raytracing.github.io/books/RayTracingInOneWeekend.html)
 
-Current position: "6.8 An Interval Class"
+Tutorial code is complete.
 
 Current rendition: ![image.png](image.png)
 
