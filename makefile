@@ -1,7 +1,13 @@
 CC = clang++
-CFLAGS = -g
+CFLAGS = "-g -std=c++11"
 
-build:
-	${CC} main.cc
-	./a.out > image.ppm
+main: main.o
+main.cc: 
+	
+run: main
+	./main > image.ppm
+
+clean:
+	@rm main.o
+	@rm main
 
