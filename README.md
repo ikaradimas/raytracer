@@ -1,8 +1,8 @@
 # Raytracer
 
-Follows the article [Ray Tracing in One Weekend](https://raytracing.github.io/books/RayTracingInOneWeekend.html)
+UPDATE: Turns out, there's a whole series... https://raytracing.github.io/ !
 
-Tutorial code is complete.
+I will be following the rest of the books as well.
 
 Current rendition: ![image.png](image.png)
 
