@@ -4,6 +4,8 @@ UPDATE: Turns out, there's a whole series... https://raytracing.github.io/ !
 
 I will be following the rest of the books as well.
 
+Up next: "3. Bounding Volume Hierarchies"
+
 Current rendition: ![image.png](image.png)
 
 ## Requirements
